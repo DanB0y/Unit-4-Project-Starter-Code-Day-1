@@ -1,0 +1,47 @@
+body{
+    background-color:coral;
+}
+img {
+    height: 20px;
+}
+
+.container {
+    color: blue;
+}
+
+.para {
+    border: solid 5px red;
+    display: flex;
+    justify-content: center;
+}
+
+.profile_pic {
+    display: flex;
+    justify-content: space-between;
+}
+
+.naruto_pic {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+    float: left;
+    border: 25px outset red;
+    margin: 10px;
+
+}
+
+.nav_bar {
+    display: flex;
+    justify-content: space-around;
+    background-color:red;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+}
+.info{
+    display:flex;
+    justify-content:space-between;
+}
